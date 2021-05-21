@@ -19,35 +19,35 @@ Project implemented following features:
 ## Agent area
 Custom login screen:
 
-![Agent login screen](allformoto/images/login-page.jpg)  
+![Agent login screen](images/login-page.jpg)  
 
 Homepage - list of all sales:
 
-![All sales list](allformoto/images/sales-list.jpg)  
+![All sales list](images/sales-list.jpg)  
 
 Register new sale:
 
-![New sale screen](allformoto/images/add-card.jpg)  
+![New sale screen](images/add-card.jpg)  
 
 ## Wordpress Admin
 
 Agents list:
 
-![WP Admin all agents](allformoto/images/agent-all.jpg)  
+![WP Admin all agents](images/agent-all.jpg)  
 
 Create new agent:
 
-![WP Admin add new agent](allformoto/images/agent-add.jpg)  
+![WP Admin add new agent](images/agent-add.jpg)  
 
 Custom agent page:
 
-![WP Admin agent profile](allformoto/images/agent-profile.jpg)  
+![WP Admin agent profile](images/agent-profile.jpg)  
 
 Invocies:
 
-![WP Admin invocies](allformoto/images/invocies.jpg)  
+![WP Admin invocies](images/invocies.jpg)  
 
 Contract PDF
 
-![WP Admin contract PDF](allformoto/images/contract.jpg)  
+![WP Admin contract PDF](images/contract.jpg)  
 
